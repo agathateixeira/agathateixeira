@@ -8,7 +8,7 @@
 
 	 [ ![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agathateixeira/)
 # Tecnologias
-<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlkYmU5YzExYjM2ODkxOGVhNGQyMTkxNDgxZTQ5NDM1Y2EzOGE2YiZjdD1n/RbDKaczqWovIugyJmW/giphy.gif' width='300px' height='auto'>
+<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlkYmU5YzExYjM2ODkxOGVhNGQyMTkxNDgxZTQ5NDM1Y2EzOGE2YiZjdD1n/RbDKaczqWovIugyJmW/giphy.gif' width='200px' height='auto'>
 <div  align="center"><br>
 
 <img  align="center"  alt="VSCode"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
