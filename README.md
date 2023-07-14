@@ -21,5 +21,6 @@
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=agathateixeira&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=agathateixeira&theme=neon&hide_border=false"  width="400px" />
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=agathateixeira&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
+<br>
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/agathateixeira/exercicios-one-bit-code/main?style=for-the-badge&labelColor=%23000000&color=%23C71585)
 </div>
