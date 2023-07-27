@@ -16,7 +16,8 @@
 <img  align="center"  alt="VSCode"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 # 🌐 Social:
-![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agathateixeira/)
+
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=agathateixeira&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=agathateixeira&theme=neon&hide_border=false"  width="400px" />
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=agathateixeira&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
